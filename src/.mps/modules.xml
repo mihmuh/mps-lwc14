@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/placeholder/placeholder.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/ql/ql.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/qls/qls.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/QlRuntime/QlRuntime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/QuestionnaireOfLife/QuestionnaireOfLife.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/QuestionnaireOfLifeWithStyle/QuestionnaireOfLifeWithStyle.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
+

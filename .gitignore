@@ -1,0 +1,13 @@
+*.iws
+*~
+*.history
+*.class
+*.swp
+*.swo
+*.swn
+
+# * languages
+classes_gen/
+source_gen/
+source_gen.caches/
+src/languages/*/languageModels/structure.history
