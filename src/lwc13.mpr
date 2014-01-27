@@ -6,18 +6,17 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="${project}/languages/placeholder/placeholder.mpl" />
-      <modulePath path="${project}/languages/ql/ql.mpl" folder="" />
-      <modulePath path="${project}/languages/qls/qls.mpl" />
-      <modulePath path="${project}/solutions/QlRuntime/QlRuntime.msd" />
-      <modulePath path="${project}/solutions/QuestionnaireOfLife/QuestionnaireOfLife.msd" />
-      <modulePath path="${project}/solutions/QuestionnaireOfLifeWithStyle/QuestionnaireOfLifeWithStyle.msd" />
+      <modulePath path="$PROJECT_DIR$/languages/placeholder/placeholder.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/ql/ql.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/qls/qls.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/QlRuntime/QlRuntime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/QuestionnaireOfLife/QuestionnaireOfLife.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/QuestionnaireOfLifeWithStyle/QuestionnaireOfLifeWithStyle.msd" folder="" />
     </projectModules>
-    <genConfs />
   </component>
   <component name="ProjectRootManager" version="2" />
   <component name="ProjectVersion">
-    <option name="version" value="2.5" />
+    <option name="version" value="3.0" />
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="" />
