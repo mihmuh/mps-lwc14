@@ -3,13 +3,15 @@
   <persistence version="8" />
   <language namespace="91226321-4f88-4441-9d12-6ac6527c0722(ql)" />
   <language namespace="f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)" />
+  <language namespace="92d2ea16-5a42-4fdf-a676-c7604efe3504(de.slisson.mps.richtext)" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="q3i4" modelUID="r:db49606d-91ef-488e-ab05-ec0c916f7ed3(ql.structure)" version="6" implicit="yes" />
+  <import index="87nw" modelUID="r:ca2ab6bb-f6e7-4c0f-a88c-b78b9b31fff3(de.slisson.mps.richtext.structure)" version="5" implicit="yes" />
   <root type="q3i4.Form" typeId="q3i4.917898825946661681" id="113961188538979202" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="HouseOwning" />
     <node role="body" roleId="q3i4.917898825946661683" type="q3i4.Block" typeId="q3i4.8643211149799186884" id="4395333163361689770" nodeInfo="ng">
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581447791" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989008577" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="4395333163361689772" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="hasSoldHouse" />
         <property name="label" nameId="q3i4.917898825946661686" value="Did you sell a house in 2010?" />
@@ -18,7 +20,7 @@
           <property name="value" nameId="tpee.1070475926801" value="Did you sell a house in 2010?" />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581491384" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989011052" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="4395333163361689777" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="hasBoughtHouse" />
         <property name="label" nameId="q3i4.917898825946661686" value="Did you buy a house in 2010?" />
@@ -27,7 +29,7 @@
           <property name="value" nameId="tpee.1070475926801" value="Did you buy a house in 2010?" />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581537104" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989013527" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="4395333163361689781" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="hasMaintLoan" />
         <property name="label" nameId="q3i4.917898825946661686" value="Did you enter a maintenance loan in 2010?" />
@@ -36,7 +38,7 @@
           <property name="value" nameId="tpee.1070475926801" value="Did you enter a maintenance loan in 2010?" />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581537103" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989016002" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="7891420495526438582" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="houseCost" />
         <property name="label" nameId="q3i4.917898825946661686" value="How much does your house cost?" />
@@ -45,7 +47,7 @@
           <property name="value" nameId="tpee.1070475926801" value="How much does your house cost?" />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581537105" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989018477" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="1582178472725747312" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="carCost" />
         <property name="label" nameId="q3i4.917898825946661686" value="How much does your car cost?" />
@@ -54,7 +56,7 @@
           <property name="value" nameId="tpee.1070475926801" value="How much does your car cost?" />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581537106" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989020952" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="7290388397545998852" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="desiredChanges" />
         <property name="label" nameId="q3i4.917898825946661686" value="What would you like to change about your house?" />
@@ -63,7 +65,7 @@
           <property name="value" nameId="tpee.1070475926801" value="What would you like to change about your house?" />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581537107" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989023427" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="8898037134863034428" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="desiredChanges2" />
         <property name="label" nameId="q3i4.917898825946661686" value="What else would you like to change about your house?" />
@@ -72,7 +74,7 @@
           <property name="value" nameId="tpee.1070475926801" value="What else would you like to change about your house?" />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581537108" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989025902" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.CalculatedValue" typeId="q3i4.1582178472725744109" id="1582178472725747308" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="totalCost" />
         <property name="label" nameId="q3i4.1582178472725744113" value="Your total cost is " />
@@ -92,7 +94,7 @@
           </node>
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581556828" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989028377" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.CalculatedValue" typeId="q3i4.1582178472725744109" id="8898037134863011664" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="tradedHouse" />
         <property name="label" nameId="q3i4.1582178472725744113" value="You traded a house" />
@@ -127,7 +129,7 @@
           </node>
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581556849" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989030852" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.CalculatedValue" typeId="q3i4.1582178472725744109" id="8898037134863034425" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="totalChanges" />
         <property name="label" nameId="q3i4.1582178472725744113" value="You want to change the following:" />
@@ -152,7 +154,7 @@
           </node>
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581447861" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989033327" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.ConditionalBlock" typeId="q3i4.4395333163361697423" id="2668213510523922717" nodeInfo="ng">
         <node role="body" roleId="q3i4.4395333163361697426" type="q3i4.Block" typeId="q3i4.8643211149799186884" id="2668213510523922719" nodeInfo="ng">
           <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="2668213510523940877" nodeInfo="ng">
@@ -162,15 +164,15 @@
             <node role="labelExpr" roleId="q3i4.947933200581472666" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="947933200581490802" nodeInfo="nn">
               <property name="value" nameId="tpee.1070475926801" value="Can I congratulate you with your buy?" />
             </node>
-            <node role="helpText" roleId="q3i4.2251561461935389090" type=".de.slisson.mps.richtext.structure.Text" id="2726240646375784309" nodeInfo="ng">
-              <node role="words" type=".de.slisson.mps.richtext.structure.Word" id="2726240646375784310" nodeInfo="ng">
-                <property name="escapedValue" value="You indicated in \&quot;" />
+            <node role="helpText" roleId="q3i4.2251561461935389090" type="87nw.Text" typeId="87nw.2557074442922380897" id="2726240646375784309" nodeInfo="ng">
+              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="2726240646375784310" nodeInfo="ng">
+                <property name="escapedValue" nameId="87nw.2557074442922438158" value="You indicated in \&quot;" />
               </node>
-              <node role="words" type="q3i4.QuestionRefWord" typeId="q3i4.2726240646375761944" id="2726240646375784311" nodeInfo="ng">
+              <node role="words" roleId="87nw.2557074442922392302" type="q3i4.QuestionRefWord" typeId="q3i4.2726240646375761944" id="2726240646375784311" nodeInfo="ng">
                 <link role="question" roleId="q3i4.2726240646375761947" targetNodeId="4395333163361689777" resolveInfo="hasBoughtHouse" />
               </node>
-              <node role="words" type=".de.slisson.mps.richtext.structure.Word" id="2726240646375784312" nodeInfo="ng">
-                <property name="escapedValue" value="\&quot; that you have bought a house.\nWe now ask you if we can congratulate you for the buy." />
+              <node role="words" roleId="87nw.2557074442922392302" type="87nw.Word" typeId="87nw.2557074442922438156" id="2726240646375784312" nodeInfo="ng">
+                <property name="escapedValue" nameId="87nw.2557074442922438158" value="\&quot; that you have bought a house.\nWe now ask you if we can congratulate you for the buy." />
               </node>
             </node>
           </node>
@@ -179,7 +181,7 @@
           <link role="question" roleId="q3i4.1785499535625990011" targetNodeId="4395333163361689777" resolveInfo="hasBoughtHouse" />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581452978" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989035802" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.ConditionalBlock" typeId="q3i4.4395333163361697423" id="8898037134863157356" nodeInfo="ng">
         <node role="body" roleId="q3i4.4395333163361697426" type="q3i4.Block" typeId="q3i4.8643211149799186884" id="8898037134863157357" nodeInfo="ng">
           <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="8898037134863157358" nodeInfo="ng">
@@ -200,7 +202,7 @@
           </node>
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581537109" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989038277" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.ConditionalBlock" typeId="q3i4.4395333163361697423" id="7290388397546020311" nodeInfo="ng">
         <node role="body" roleId="q3i4.4395333163361697426" type="q3i4.Block" typeId="q3i4.8643211149799186884" id="7290388397546020312" nodeInfo="ng">
           <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="7290388397546020313" nodeInfo="ng">
@@ -221,7 +223,7 @@
           </node>
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581492597" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989040752" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.Question" typeId="q3i4.917898825946650079" id="8898037134863175115" nodeInfo="ng">
         <property name="name" nameId="tpck.1169194664001" value="outside" />
         <property name="label" nameId="q3i4.917898825946661686" value="Outside: Check me." />
@@ -230,7 +232,7 @@
           <property name="value" nameId="tpee.1070475926801" value="Outside: Check me." />
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581492596" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989003627" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.ConditionalBlock" typeId="q3i4.4395333163361697423" id="8898037134863175111" nodeInfo="ng">
         <node role="condition" roleId="q3i4.4395333163361697425" type="q3i4.QuestionReference" typeId="q3i4.1785499535625990009" id="8898037134863175122" nodeInfo="ng">
           <link role="question" roleId="q3i4.1785499535625990011" targetNodeId="8898037134863175115" resolveInfo="outside" />
@@ -246,7 +248,7 @@
           </node>
         </node>
       </node>
-      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.FormElement" typeId="q3i4.8643211149799161016" id="947933200581537110" nodeInfo="ng" />
+      <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.NewLineFormElement" typeId="q3i4.4439350695988819379" id="4439350695989006102" nodeInfo="ng" />
       <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.ConditionalBlock" typeId="q3i4.4395333163361697423" id="8898037134863175127" nodeInfo="ng">
         <node role="condition" roleId="q3i4.4395333163361697425" type="q3i4.QuestionReference" typeId="q3i4.1785499535625990009" id="8898037134863175130" nodeInfo="ng">
           <link role="question" roleId="q3i4.1785499535625990011" targetNodeId="8898037134863175123" resolveInfo="inside" />

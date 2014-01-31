@@ -89,9 +89,6 @@
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="0..n" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="8643211149799161016" resolveInfo="FormElement" />
     </node>
-    <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="1418649838144453922" nodeInfo="ig">
-      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="tpck.1835621062190663819" resolveInfo="IDontSubstituteByDefault" />
-    </node>
   </root>
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="4395333163361697423" nodeInfo="ig">
     <property name="name" nameId="tpck.1169194664001" value="ConditionalBlock" />
@@ -167,6 +164,10 @@
     <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="2726240646375761945" nodeInfo="ig">
       <link role="intfc" roleId="tpce.1169127628841" targetNodeId="87nw.2557074442922392300" resolveInfo="IWord" />
     </node>
+  </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="4439350695988819379" nodeInfo="ig">
+    <property name="name" nameId="tpck.1169194664001" value="NewLineFormElement" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="8643211149799161016" resolveInfo="FormElement" />
   </root>
 </model>
 
