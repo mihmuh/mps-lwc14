@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/CSS.core/CSS.core.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CSS.selectors/CSS.selectors.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/CSS.values/CSS.values.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CSS/CSS.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/placeholder/placeholder.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/ql/ql.mpl" folder="" />
