@@ -38,5 +38,16 @@
       <link role="intfc" roleId="tpce.1169127628841" targetNodeId="jqyd.237132406978975148" resolveInfo="ISelector" />
     </node>
   </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="1751130803059509813" nodeInfo="ig">
+    <property name="name" nameId="tpck.1169194664001" value="TagSelector" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
+    <node role="propertyDeclaration" roleId="tpce.1071489727084" type="tpce.PropertyDeclaration" typeId="tpce.1071489288299" id="1751130803059509913" nodeInfo="ig">
+      <property name="name" nameId="tpck.1169194664001" value="tagName" />
+      <link role="dataType" roleId="tpce.1082985295845" targetNodeId="tpck.1082983041843" resolveInfo="string" />
+    </node>
+    <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="1751130803059565267" nodeInfo="ig">
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="jqyd.237132406978975148" resolveInfo="ISelector" />
+    </node>
+  </root>
 </model>
 

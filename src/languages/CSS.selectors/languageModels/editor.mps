@@ -41,5 +41,11 @@
       <property name="text" nameId="tpc2.1073389577007" value="*" />
     </node>
   </root>
+  <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="1751130803059509920" nodeInfo="ng">
+    <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="t8dp.1751130803059509813" resolveInfo="TagSelector" />
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="1751130803059520083" nodeInfo="ng">
+      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="t8dp.1751130803059509913" resolveInfo="tagName" />
+    </node>
+  </root>
 </model>
 
