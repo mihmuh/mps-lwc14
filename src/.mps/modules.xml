@@ -6,6 +6,7 @@
       <modulePath path="$PROJECT_DIR$/languages/CSS.selectors/CSS.selectors.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CSS.values/CSS.values.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CSS/CSS.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/HTML/HTML.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/placeholder/placeholder.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/ql/ql.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/qls/qls.mpl" folder="" />
@@ -14,6 +15,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/QlRuntime/QlRuntime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/QuestionnaireOfLife/QuestionnaireOfLife.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/QuestionnaireOfLifeWithStyle/QuestionnaireOfLifeWithStyle.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/zandbak/zandbak.msd" folder="" />
     </projectModules>
   </component>
 </project>
