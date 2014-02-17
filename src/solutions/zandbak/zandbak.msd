@@ -10,6 +10,10 @@
     <dependency reexport="false">5dce24ab-5a66-4b11-9530-2ee690157f45(HTML)</dependency>
   </dependencies>
   <usedLanguages>
+    <usedLanguage>47a2d30e-7a93-4c58-b1ab-aaffa3b12323(CSS)</usedLanguage>
+    <usedLanguage>b6766d0d-c1ce-46cc-ae3b-3f523d614533(CSS.core)</usedLanguage>
+    <usedLanguage>f2c256ad-cebe-4aff-9bcf-101f9cdba1b3(CSS.selectors)</usedLanguage>
+    <usedLanguage>0236e8e9-05f1-4baf-8ec2-e6d06d11c4b1(CSS.values)</usedLanguage>
     <usedLanguage>91226321-4f88-4441-9d12-6ac6527c0722(ql)</usedLanguage>
   </usedLanguages>
 </solution>
