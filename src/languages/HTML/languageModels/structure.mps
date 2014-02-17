@@ -46,7 +46,7 @@
       <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
       <property name="role" nameId="tpce.1071599776563" value="body" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="0..n" />
-      <link role="target" roleId="tpce.1071599976176" targetNodeId="2670064481914982244" resolveInfo="GenericTag" />
+      <link role="target" roleId="tpce.1071599976176" targetNodeId="2670064481914992586" resolveInfo="IHTMLNode" />
     </node>
     <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="2670064481914999617" nodeInfo="ig">
       <link role="intfc" roleId="tpce.1169127628841" targetNodeId="2670064481914992586" resolveInfo="IHTMLNode" />

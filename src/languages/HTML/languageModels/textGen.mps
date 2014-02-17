@@ -196,6 +196,7 @@
     <link role="conceptDeclaration" roleId="2omo.1233670257997" targetNodeId="gyg4.2670064481914954124" resolveInfo="Comment" />
     <node role="textGenBlock" roleId="2omo.1233749296504" type="2omo.GenerateTextDeclaration" typeId="2omo.1233749247888" id="5208223129005060192" nodeInfo="nn">
       <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="5208223129005060193" nodeInfo="sn">
+        <node role="statement" roleId="tpee.1068581517665" type="2omo.IndentBufferOperation" typeId="2omo.1233920501193" id="7423459828956252220" nodeInfo="nn" />
         <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="5208223129005060200" nodeInfo="nn">
           <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="5208223129005060212" nodeInfo="ng">
             <property name="value" nameId="2omo.1237305576108" value="&lt;!--" />
