@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/BaseLanguageExt/BaseLanguageExt.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CSS.core/CSS.core.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CSS.selectors/CSS.selectors.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CSS.values/CSS.values.mpl" folder="" />
