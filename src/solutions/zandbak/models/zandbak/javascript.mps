@@ -6,7 +6,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <root type="gsa0.Program" typeId="gsa0.4031917828564848554" id="9188439651719218839" nodeInfo="ng">
     <node role="elements" roleId="gsa0.9188439651718537906" type="gsa0.Function" typeId="gsa0.9188439651718537914" id="5486623725157609521" nodeInfo="ng">
-      <property name="name" nameId="tpck.1169194664001" value="abcde0`" />
+      <property name="name" nameId="tpck.1169194664001" value="ab92174_9" />
       <node role="body" roleId="gsa0.9188439651719047860" type="gsa0.CompoundStatement" typeId="gsa0.9188439651719047863" id="5486623725157609523" nodeInfo="ng" />
     </node>
   </root>
