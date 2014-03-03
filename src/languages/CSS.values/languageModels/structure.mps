@@ -9,6 +9,7 @@
   <import index="qmdv" modelUID="r:754e612c-f44d-417f-a070-39dcdf0bfa5c(CSS.values.structure)" version="0" implicit="yes" />
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="1751130803059568634" nodeInfo="ig">
     <property name="name" nameId="tpck.1169194664001" value="HexColor" />
+    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="#" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
     <node role="propertyDeclaration" roleId="tpce.1071489727084" type="tpce.PropertyDeclaration" typeId="tpce.1071489288299" id="1751130803059573378" nodeInfo="ig">
       <property name="name" nameId="tpck.1169194664001" value="color" />
