@@ -10,6 +10,7 @@
     <dependency reexport="false">5dce24ab-5a66-4b11-9530-2ee690157f45(HTML)</dependency>
   </dependencies>
   <usedLanguages>
+    <usedLanguage>23f8f5c8-c424-4585-9e67-e43ec0c23c7d(JavaScript)</usedLanguage>
     <usedLanguage>91226321-4f88-4441-9d12-6ac6527c0722(ql)</usedLanguage>
   </usedLanguages>
 </solution>
