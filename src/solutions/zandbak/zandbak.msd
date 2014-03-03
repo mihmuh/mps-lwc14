@@ -15,6 +15,7 @@
     <usedLanguage>f2c256ad-cebe-4aff-9bcf-101f9cdba1b3(CSS.selectors)</usedLanguage>
     <usedLanguage>0236e8e9-05f1-4baf-8ec2-e6d06d11c4b1(CSS.values)</usedLanguage>
     <usedLanguage>23f8f5c8-c424-4585-9e67-e43ec0c23c7d(JavaScript)</usedLanguage>
+    <usedLanguage>f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)</usedLanguage>
     <usedLanguage>91226321-4f88-4441-9d12-6ac6527c0722(ql)</usedLanguage>
   </usedLanguages>
 </solution>
