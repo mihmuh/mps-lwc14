@@ -64,10 +64,14 @@
         <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563888822112" nodeInfo="nn">
           <property name="value" nameId="tpee.1068580320021" value="10" />
         </node>
-        <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.Expression" typeId="tpee.1068431790191" id="2868603563888822100" nodeInfo="nn" />
+        <node role="leftExpression" roleId="tpee.1081773367580" type="gsa0.Identifier" typeId="gsa0.632813521157821708" id="2868603563889524375" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="x" />
+        </node>
       </node>
       <node role="iteration" roleId="gsa0.632813521158671171" type="tpee.PrefixIncrementExpression" typeId="tpee.1239709250944" id="2868603563888822165" nodeInfo="nn">
-        <node role="expression" roleId="tpee.1239714902950" type="tpee.Expression" typeId="tpee.1068431790191" id="2868603563888822166" nodeInfo="nn" />
+        <node role="expression" roleId="tpee.1239714902950" type="gsa0.Identifier" typeId="gsa0.632813521157821708" id="2868603563889525561" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="x" />
+        </node>
       </node>
       <node role="statement" roleId="gsa0.632813521158671475" type="gsa0.VariableList" typeId="gsa0.632813521157821325" id="2868603563888822649" nodeInfo="ng">
         <node role="vars" roleId="gsa0.632813521157821337" type="gsa0.Assignment" typeId="gsa0.632813521157821425" id="2868603563888822653" nodeInfo="ng">
