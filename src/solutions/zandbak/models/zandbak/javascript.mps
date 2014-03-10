@@ -131,6 +131,24 @@
             </node>
           </node>
         </node>
+        <node role="statements" roleId="gsa0.9188439651719047866" type="gsa0.ExprStatement" typeId="gsa0.632813521157717787" id="2868603563890566888" nodeInfo="ng">
+          <node role="expr" roleId="gsa0.632813521157717827" type="gsa0.Constructor" typeId="gsa0.2868603563889228072" id="2868603563890572993" nodeInfo="ng">
+            <node role="identifiers" roleId="gsa0.2868603563889526880" type="gsa0.Identifier" typeId="gsa0.632813521157821708" id="2868603563890572994" nodeInfo="ng">
+              <property name="name" nameId="tpck.1169194664001" value="test" />
+            </node>
+            <node role="argumentlist" roleId="gsa0.2868603563889630774" type="gsa0.ArgumentList" typeId="gsa0.2868603563889526990" id="2868603563890572997" nodeInfo="ng">
+              <node role="arguments" roleId="gsa0.2868603563889526991" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563890574017" nodeInfo="nn">
+                <property name="value" nameId="tpee.1068580320021" value="2" />
+              </node>
+              <node role="arguments" roleId="gsa0.2868603563889526991" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563890575040" nodeInfo="nn">
+                <property name="value" nameId="tpee.1068580320021" value="3" />
+              </node>
+              <node role="arguments" roleId="gsa0.2868603563889526991" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563890576068" nodeInfo="nn">
+                <property name="value" nameId="tpee.1068580320021" value="4" />
+              </node>
+            </node>
+          </node>
+        </node>
       </node>
       <node role="expr" roleId="gsa0.2868603563888992273" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563889104899" nodeInfo="nn">
         <property name="value" nameId="tpee.1068580320021" value="3" />
