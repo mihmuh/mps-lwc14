@@ -10,6 +10,7 @@
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="16" implicit="yes" />
   <root type="tpd4.InferenceRule" typeId="tpd4.1174643105530" id="9188439651719122533" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="typeof_Condition" />
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="Statement.Selection" />
     <node role="body" roleId="tpd4.1195213635060" type="tpee.StatementList" typeId="tpee.1068580123136" id="9188439651719122534" nodeInfo="sn">
       <node role="statement" roleId="tpee.1068581517665" type="tpd4.CreateEquationStatement" typeId="tpd4.1174658326157" id="9188439651719209257" nodeInfo="nn">
         <node role="rightExpression" roleId="tpd4.1174660783414" type="tpd4.NormalTypeClause" typeId="tpd4.1185788614172" id="9188439651719209303" nodeInfo="ng">

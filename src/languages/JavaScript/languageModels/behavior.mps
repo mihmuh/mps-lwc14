@@ -28,6 +28,7 @@
     </node>
   </root>
   <root type="1i04.ConceptBehavior" typeId="1i04.1225194240794" id="632813521157508821" nodeInfo="ng">
+    <property name="virtualPackage" nameId="tpck.1193676396447" value="Statement" />
     <link role="concept" roleId="1i04.1225194240799" targetNodeId="gsa0.9188439651719047863" resolveInfo="CompoundStatement" />
     <node role="method" roleId="1i04.1225194240805" type="1i04.ConceptMethodDeclaration" typeId="1i04.1225194472830" id="632813521157508824" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="shouldIndentAsBlock" />
