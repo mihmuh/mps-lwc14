@@ -154,6 +154,17 @@
         <property name="value" nameId="tpee.1068580320021" value="3" />
       </node>
     </node>
+    <node role="elements" roleId="gsa0.9188439651718537906" type="gsa0.ExprStatement" typeId="gsa0.632813521157717787" id="2868603563890846940" nodeInfo="ng">
+      <node role="expr" roleId="gsa0.632813521157717827" type="gsa0.DotExpression" typeId="gsa0.2868603563889925974" id="2868603563890924923" nodeInfo="ng">
+        <node role="exprlist" roleId="gsa0.2868603563889926050" type="gsa0.Identifier" typeId="gsa0.632813521157821708" id="2868603563890924934" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="Qlrt" />
+        </node>
+        <node role="exprlist" roleId="gsa0.2868603563889926050" type="gsa0.FunctionCall" typeId="gsa0.2868603563890928558" id="2868603563891076804" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="SomeNiceWidget" />
+          <node role="arguments" roleId="gsa0.2868603563890928637" type="gsa0.ArgumentList" typeId="gsa0.2868603563889526990" id="2868603563891076806" nodeInfo="ng" />
+        </node>
+      </node>
+    </node>
   </root>
 </model>
 
