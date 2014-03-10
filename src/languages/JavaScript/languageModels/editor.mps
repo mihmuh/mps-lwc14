@@ -458,5 +458,12 @@
       <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="2868603563889813964" nodeInfo="nn" />
     </node>
   </root>
+  <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="2868603563889926209" nodeInfo="ng">
+    <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="gsa0.2868603563889925974" resolveInfo="DotExpression" />
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_RefNodeList" typeId="tpc2.1073390211982" id="2868603563889926393" nodeInfo="ng">
+      <property name="separatorText" nameId="tpc2.1140524450557" value="." />
+      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="gsa0.2868603563889926050" />
+    </node>
+  </root>
 </model>
 

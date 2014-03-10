@@ -102,6 +102,25 @@
     </node>
     <node role="elements" roleId="gsa0.9188439651718537906" type="gsa0.WithStatement" typeId="gsa0.2868603563888992209" id="2868603563889104776" nodeInfo="ng">
       <node role="stat" roleId="gsa0.2868603563888992400" type="gsa0.CompoundStatement" typeId="gsa0.9188439651719047863" id="2868603563889104981" nodeInfo="ng">
+        <node role="statements" roleId="gsa0.9188439651719047866" type="gsa0.ExprStatement" typeId="gsa0.632813521157717787" id="2868603563890040269" nodeInfo="ng">
+          <node role="expr" roleId="gsa0.632813521157717827" type="gsa0.DotExpression" typeId="gsa0.2868603563889925974" id="2868603563890041404" nodeInfo="ng">
+            <node role="exprlist" roleId="gsa0.2868603563889926050" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563890042535" nodeInfo="nn">
+              <property name="value" nameId="tpee.1068580320021" value="2" />
+            </node>
+            <node role="exprlist" roleId="gsa0.2868603563889926050" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563890044805" nodeInfo="nn">
+              <property name="value" nameId="tpee.1068580320021" value="3" />
+            </node>
+            <node role="exprlist" roleId="gsa0.2868603563889926050" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563890045946" nodeInfo="nn">
+              <property name="value" nameId="tpee.1068580320021" value="4" />
+            </node>
+            <node role="exprlist" roleId="gsa0.2868603563889926050" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563890047092" nodeInfo="nn">
+              <property name="value" nameId="tpee.1068580320021" value="5" />
+            </node>
+            <node role="exprlist" roleId="gsa0.2868603563889926050" type="tpee.BooleanConstant" typeId="tpee.1068580123137" id="2868603563890048243" nodeInfo="nn">
+              <property name="value" nameId="tpee.1068580123138" value="false" />
+            </node>
+          </node>
+        </node>
         <node role="statements" roleId="gsa0.9188439651719047866" type="gsa0.ExprStatement" typeId="gsa0.632813521157717787" id="2868603563889105061" nodeInfo="ng">
           <node role="expr" roleId="gsa0.632813521157717827" type="tpee.PlusExpression" typeId="tpee.1068581242875" id="2868603563889108173" nodeInfo="nn">
             <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2868603563889108176" nodeInfo="nn">
