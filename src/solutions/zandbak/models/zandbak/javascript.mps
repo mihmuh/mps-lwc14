@@ -3,9 +3,11 @@
   <persistence version="8" />
   <language namespace="23f8f5c8-c424-4585-9e67-e43ec0c23c7d(JavaScript)" />
   <language namespace="f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)" />
-  <import index="gsa0" modelUID="r:749a161a-c4fa-4ccd-9eb8-e79f5e4a6a60(JavaScript.structure)" version="7" implicit="yes" />
+  <language namespace="60846345-74ad-46ca-aeec-8ec9b1fd7587(JSON)" />
+  <import index="gsa0" modelUID="r:749a161a-c4fa-4ccd-9eb8-e79f5e4a6a60(JavaScript.structure)" version="8" implicit="yes" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" implicit="yes" />
+  <import index="t7lg" modelUID="r:a96e69fb-b2ea-4eac-b994-570ea4d99eed(JSON.structure)" version="1" implicit="yes" />
   <root type="gsa0.Program" typeId="gsa0.4031917828564848554" id="9188439651719218839" nodeInfo="ng">
     <node role="elements" roleId="gsa0.9188439651718537906" type="gsa0.Function" typeId="gsa0.9188439651718537914" id="5486623725157609521" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="ab92174_9" />
@@ -161,7 +163,18 @@
         </node>
         <node role="exprlist" roleId="gsa0.2868603563889926050" type="gsa0.FunctionCall" typeId="gsa0.2868603563890928558" id="2868603563891076804" nodeInfo="ng">
           <property name="name" nameId="tpck.1169194664001" value="SomeNiceWidget" />
-          <node role="arguments" roleId="gsa0.2868603563890928637" type="gsa0.ArgumentList" typeId="gsa0.2868603563889526990" id="2868603563891076806" nodeInfo="ng" />
+          <node role="arguments" roleId="gsa0.2868603563890928637" type="gsa0.ArgumentList" typeId="gsa0.2868603563889526990" id="2868603563891076806" nodeInfo="ng">
+            <node role="arguments" roleId="gsa0.2868603563889526991" type="gsa0.JSONObject" typeId="gsa0.981240464064929872" id="981240464065208189" nodeInfo="ng">
+              <node role="json" roleId="gsa0.981240464064929873" type="t7lg.Object" typeId="t7lg.10699986371514977" id="981240464065208190" nodeInfo="ng">
+                <node role="members" roleId="t7lg.10699986371534188" type="t7lg.Member" typeId="t7lg.10699986371534184" id="981240464065208193" nodeInfo="ng">
+                  <property name="name" nameId="tpck.1169194664001" value="blah" />
+                  <node role="value" roleId="t7lg.10699986371562304" type="t7lg.NumberValue" typeId="t7lg.49445023081988872" id="981240464065209258" nodeInfo="ng">
+                    <property name="value" nameId="t7lg.49445023082761044" value="5" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
         </node>
       </node>
     </node>
