@@ -2,7 +2,7 @@
 <language namespace="JavaScript" uuid="23f8f5c8-c424-4585-9e67-e43ec0c23c7d">
   <models>
     <modelRoot contentPath="${module}" type="default">
-      <sourceRoot location="languageModels" />
+      <sourceRoot path="${module}/languageModels" />
     </modelRoot>
   </models>
   <accessoryModels />
@@ -30,6 +30,7 @@
     <dependency reexport="false">daafa647-f1f7-4b0b-b096-69cd7c8408c0(jetbrains.mps.baseLanguage.regexp)</dependency>
   </dependencies>
   <usedDevKits>
+    <usedDevKit>fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)</usedDevKit>
     <usedDevKit>2677cb18-f558-4e33-bc38-a5139cee06dc(jetbrains.mps.devkit.language-design)</usedDevKit>
   </usedDevKits>
   <extendedLanguages>
