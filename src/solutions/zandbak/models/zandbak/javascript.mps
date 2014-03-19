@@ -4,7 +4,7 @@
   <language namespace="23f8f5c8-c424-4585-9e67-e43ec0c23c7d(JavaScript)" />
   <language namespace="f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)" />
   <language namespace="60846345-74ad-46ca-aeec-8ec9b1fd7587(JSON)" />
-  <import index="gsa0" modelUID="r:749a161a-c4fa-4ccd-9eb8-e79f5e4a6a60(JavaScript.structure)" version="7" implicit="yes" />
+  <import index="gsa0" modelUID="r:749a161a-c4fa-4ccd-9eb8-e79f5e4a6a60(JavaScript.structure)" version="9" implicit="yes" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" implicit="yes" />
   <root type="gsa0.Program" typeId="gsa0.4031917828564848554" id="9188439651719218839" nodeInfo="ng">
