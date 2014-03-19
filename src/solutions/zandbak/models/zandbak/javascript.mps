@@ -8,6 +8,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" implicit="yes" />
   <root type="gsa0.Program" typeId="gsa0.4031917828564848554" id="9188439651719218839" nodeInfo="ng">
+    <property name="name" nameId="tpck.1169194664001" value="test" />
     <node role="elements" roleId="gsa0.9188439651718537906" type="gsa0.Function" typeId="gsa0.9188439651718537914" id="5486623725157609521" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="ab92174_9" />
       <node role="body" roleId="gsa0.9188439651719047860" type="gsa0.CompoundStatement" typeId="gsa0.9188439651719047863" id="5486623725157609523" nodeInfo="ng">
@@ -66,6 +67,9 @@
       <node role="expr" roleId="gsa0.632813521157821428" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="3605617378896171587" nodeInfo="nn">
         <property name="value" nameId="tpee.1113006610751" value="3.4" />
       </node>
+      <node role="lval" roleId="gsa0.2957252048716734855" type="gsa0.Identifier" typeId="gsa0.632813521157821708" id="2957252048717118367" nodeInfo="ng">
+        <property name="name" nameId="tpck.1169194664001" value="x" />
+      </node>
     </node>
     <node role="elements" roleId="gsa0.9188439651718537906" type="gsa0.ForStatement" typeId="gsa0.632813521158670736" id="3605617378896408053" nodeInfo="ng">
       <node role="statement" roleId="gsa0.632813521158671475" type="gsa0.Block" typeId="gsa0.3605617378894395578" id="3605617378896408055" nodeInfo="ng">
@@ -94,6 +98,9 @@
           <node role="expr" roleId="gsa0.632813521157821428" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="3605617378896416853" nodeInfo="nn">
             <property name="value" nameId="tpee.1068580320021" value="0" />
           </node>
+          <node role="lval" roleId="gsa0.2957252048716734855" type="gsa0.Identifier" typeId="gsa0.632813521157821708" id="2957252048717118369" nodeInfo="ng">
+            <property name="name" nameId="tpck.1169194664001" value="x" />
+          </node>
         </node>
       </node>
     </node>
@@ -102,6 +109,9 @@
         <property name="name" nameId="tpck.1169194664001" value="x" />
         <node role="expr" roleId="gsa0.632813521157821428" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="3605617378896424414" nodeInfo="nn">
           <property name="value" nameId="tpee.1068580320021" value="3" />
+        </node>
+        <node role="lval" roleId="gsa0.2957252048716734855" type="gsa0.Identifier" typeId="gsa0.632813521157821708" id="2957252048717118371" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="x" />
         </node>
       </node>
       <node role="expr" roleId="gsa0.632813521158586040" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="3605617378896425614" nodeInfo="nn">
