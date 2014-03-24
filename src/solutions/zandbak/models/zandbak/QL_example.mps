@@ -151,7 +151,7 @@
           <property name="name" nameId="tpck.1169194664001" value="script" />
           <node role="attributes" roleId="gyg4.2670064481914992560" type="gyg4.Attribute" typeId="gyg4.2670064481914982302" id="7423459828955278034" nodeInfo="ng">
             <property name="name" nameId="tpck.1169194664001" value="type" />
-            <property name="value" nameId="gyg4.2670064481914982312" value="test/javascript" />
+            <property name="value" nameId="gyg4.2670064481914982312" value="text/javascript" />
           </node>
           <node role="attributes" roleId="gyg4.2670064481914992560" type="gyg4.Attribute" typeId="gyg4.2670064481914982302" id="7423459828955278079" nodeInfo="ng">
             <property name="name" nameId="tpck.1169194664001" value="src" />
