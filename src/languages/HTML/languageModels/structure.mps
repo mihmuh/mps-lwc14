@@ -34,6 +34,7 @@
   <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="2670064481914982244" nodeInfo="ig">
     <property name="name" nameId="tpck.1169194664001" value="GenericTag" />
     <property name="conceptShortDescription" nameId="tpce.4628067390765907488" value="Generic tag (no mixed tag/child nodes allowed). Intended as generation target." />
+    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="&lt;" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
     <node role="propertyDeclaration" roleId="tpce.1071489727084" type="tpce.PropertyDeclaration" typeId="tpce.1071489288299" id="2670064481914982294" nodeInfo="ig">
       <property name="name" nameId="tpck.1169194664001" value="text" />
