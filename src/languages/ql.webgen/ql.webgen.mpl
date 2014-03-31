@@ -22,6 +22,7 @@
       <usedLanguages>
         <usedLanguage>5dce24ab-5a66-4b11-9530-2ee690157f45(HTML)</usedLanguage>
         <usedLanguage>23f8f5c8-c424-4585-9e67-e43ec0c23c7d(JavaScript)</usedLanguage>
+        <usedLanguage>798100da-4f0a-421a-b991-71f8c50ce5d2(jetbrains.mps.build)</usedLanguage>
         <usedLanguage>b401a680-8325-4110-8fd3-84331ff25bef(jetbrains.mps.lang.generator)</usedLanguage>
         <usedLanguage>d7706f63-9be2-479c-a3da-ae92af1e64d5(jetbrains.mps.lang.generator.generationContext)</usedLanguage>
         <usedLanguage>dcfacd16-b0ae-4426-be49-ebf3d72fbf41(ql.webgen)</usedLanguage>
