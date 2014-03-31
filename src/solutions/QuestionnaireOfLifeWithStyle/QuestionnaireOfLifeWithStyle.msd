@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <solution name="QuestionnaireOfLifeWithStyle" uuid="6821fb59-ffad-4ec3-be53-a9a567706547" compileInMPS="true">
   <models>
-    <modelRoot path="${solution_descriptor}/models" />
+    <modelRoot contentPath="${module}" type="default">
+      <sourceRoot location="models" />
+    </modelRoot>
   </models>
   <sourcePath />
   <usedLanguages>
