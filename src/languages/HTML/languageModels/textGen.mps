@@ -186,7 +186,7 @@
       <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="5208223129005117862" nodeInfo="sn">
         <node role="statement" roleId="tpee.1068581517665" type="tpee.ReturnStatement" typeId="tpee.1068581242878" id="5208223129005118609" nodeInfo="nn">
           <node role="expression" roleId="tpee.1068581517676" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="5208223129005119992" nodeInfo="nn">
-            <property name="value" nameId="tpee.1070475926801" value=".html" />
+            <property name="value" nameId="tpee.1070475926801" value="html" />
           </node>
         </node>
       </node>
