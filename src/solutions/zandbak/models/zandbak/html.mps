@@ -5,6 +5,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="gyg4" modelUID="r:b1050b74-cd4e-4385-802a-b15e56ed05cb(HTML.structure)" version="0" implicit="yes" />
   <root type="gyg4.DocType" typeId="gyg4.2670064481914934848" id="5113206762598153367" nodeInfo="ng">
+    <property name="name" nameId="tpck.1169194664001" value="test" />
     <node role="tags" roleId="gyg4.2670064481914992573" type="gyg4.GenericTag" typeId="gyg4.2670064481914982244" id="5113206762598153381" nodeInfo="ng">
       <property name="name" nameId="tpck.1169194664001" value="aSimpleTag" />
     </node>
