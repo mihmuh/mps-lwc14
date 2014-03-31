@@ -71,6 +71,19 @@
         <property name="name" nameId="tpck.1169194664001" value="x" />
       </node>
     </node>
+    <node role="elements" roleId="gsa0.9188439651718537906" type="gsa0.ForStatement" typeId="gsa0.632813521158670736" id="1674600665746303184" nodeInfo="ng">
+      <node role="statement" roleId="gsa0.632813521158671475" type="gsa0.Block" typeId="gsa0.3605617378894395578" id="1674600665746303186" nodeInfo="ng">
+        <node role="statement" roleId="gsa0.3605617378894395660" type="gsa0.IStatement" typeId="gsa0.9188439651718569645" id="1674600665746303188" nodeInfo="ng" />
+      </node>
+      <node role="initializer" roleId="gsa0.632813521158670739" type="gsa0.Assignment" typeId="gsa0.632813521157821425" id="1674600665746303256" nodeInfo="ng">
+        <node role="lval" roleId="gsa0.2957252048716734855" type="gsa0.Identifier" typeId="gsa0.632813521157821708" id="1674600665746303270" nodeInfo="ng">
+          <property name="name" nameId="tpck.1169194664001" value="x" />
+        </node>
+        <node role="expr" roleId="gsa0.632813521157821428" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1674600665746303262" nodeInfo="nn">
+          <property name="value" nameId="tpee.1068580320021" value="0" />
+        </node>
+      </node>
+    </node>
     <node role="elements" roleId="gsa0.9188439651718537906" type="gsa0.ForStatement" typeId="gsa0.632813521158670736" id="3605617378896408053" nodeInfo="ng">
       <node role="statement" roleId="gsa0.632813521158671475" type="gsa0.Block" typeId="gsa0.3605617378894395578" id="3605617378896408055" nodeInfo="ng">
         <node role="statement" roleId="gsa0.3605617378894395660" type="gsa0.ExprStatement" typeId="gsa0.632813521157717787" id="3605617378896418089" nodeInfo="ng">
