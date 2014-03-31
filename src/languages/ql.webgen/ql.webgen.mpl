@@ -15,6 +15,8 @@
       </models>
       <external-templates />
       <dependencies>
+        <dependency reexport="false">23f8f5c8-c424-4585-9e67-e43ec0c23c7d(JavaScript)</dependency>
+        <dependency reexport="false">8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)</dependency>
         <dependency reexport="false">91226321-4f88-4441-9d12-6ac6527c0722(ql)</dependency>
       </dependencies>
       <usedLanguages>
