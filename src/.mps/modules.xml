@@ -12,6 +12,7 @@
       <modulePath path="$PROJECT_DIR$/languages/JavaScript/JavaScript.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/placeholder/placeholder.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/ql.javagen/ql.javagen.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/ql.webgen/ql.webgen.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/ql/ql.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/qls/qls.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/BinarySearchTrees/BinarySearchTrees.msd" folder="" />
