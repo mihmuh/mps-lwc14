@@ -27,6 +27,7 @@
     <usedLanguage>7a5dda62-9140-4668-ab76-d5ed1746f2b2(jetbrains.mps.lang.typesystem)</usedLanguage>
     <usedLanguage>91226321-4f88-4441-9d12-6ac6527c0722(ql)</usedLanguage>
     <usedLanguage>961a3518-50e6-494c-a0fd-5c7b33e78f78(ql.javagen)</usedLanguage>
+    <usedLanguage>fb8e06d6-41a1-4d57-a2cd-8c87f5d521ae(ql.simple)</usedLanguage>
     <usedLanguage>dcfacd16-b0ae-4426-be49-ebf3d72fbf41(ql.webgen)</usedLanguage>
   </usedLanguages>
 </solution>

@@ -13,9 +13,10 @@
   <import index="dbrf" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" version="-1" />
   <import index="9ds6" modelUID="r:f4c6d90b-4803-4ba2-b577-da9f23edfd30(ql.simple.runtime.map)" version="-1" />
   <import index="k7g3" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" version="-1" />
+  <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" />
+  <import index="g3ym" modelUID="r:cda83059-9814-4415-8ddc-8424866df366(ql.simple.structure)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpf8" modelUID="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" version="2" implicit="yes" />
-  <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" implicit="yes" />
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="16" implicit="yes" />
   <import index="tpf3" modelUID="r:00000000-0000-4000-0000-011c895902f3(jetbrains.mps.lang.generator.generationContext.structure)" version="0" implicit="yes" />
   <import index="tp68" modelUID="r:00000000-0000-4000-0000-011c895903ac(jetbrains.mps.baseLanguageInternal.structure)" version="2" implicit="yes" />
@@ -271,7 +272,7 @@
       </node>
     </node>
     <node role="reductionMappingRule" roleId="tpf8.1167328349397" type="tpf8.Reduction_MappingRule" typeId="tpf8.1167327847730" id="8389495848826348478" nodeInfo="ng">
-      <link role="applicableConcept" roleId="tpf8.1167169349424" targetNodeId="q3i4.8389495848824162390" resolveInfo="FormInline" />
+      <link role="applicableConcept" roleId="tpf8.1167169349424" targetNodeId="g3ym.8389495848826783099" resolveInfo="FormInline" />
       <node role="ruleConsequence" roleId="tpf8.1169672767469" type="tpf8.TemplateDeclarationReference" typeId="tpf8.1168559333462" id="8389495848826348493" nodeInfo="nn">
         <link role="template" roleId="tpf8.1722980698497626483" targetNodeId="8389495848826348491" resolveInfo="reduce_FormInline" />
       </node>
@@ -327,7 +328,7 @@
   </root>
   <root type="tpf8.TemplateDeclaration" typeId="tpf8.1092059087312" id="8389495848826348491" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="reduce_FormInline" />
-    <link role="applicableConcept" roleId="tpf8.1168285871518" targetNodeId="q3i4.8389495848824162390" resolveInfo="FormInline" />
+    <link role="applicableConcept" roleId="tpf8.1168285871518" targetNodeId="g3ym.8389495848826783099" resolveInfo="FormInline" />
     <node role="contentNode" roleId="tpf8.1092060348987" type="tpee.ClassConcept" typeId="tpee.1068390468198" id="8389495848826348719" nodeInfo="ig">
       <property name="nonStatic" nameId="tpee.521412098689998745" value="true" />
       <property name="name" nameId="tpck.1169194664001" value="Tmpl" />
@@ -363,7 +364,7 @@
                           <node role="operand" roleId="tpee.1197027771414" type="tpee.DotExpression" typeId="tpee.1197027756228" id="8389495848826580119" nodeInfo="nn">
                             <node role="operand" roleId="tpee.1197027771414" type="tpf8.TemplateFunctionParameter_sourceNode" typeId="tpf8.1167169188348" id="8389495848826580120" nodeInfo="nn" />
                             <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="8389495848826580121" nodeInfo="nn">
-                              <link role="link" roleId="tp25.1138056516764" targetNodeId="q3i4.8389495848824162492" />
+                              <link role="link" roleId="tp25.1138056516764" targetNodeId="g3ym.8389495848826783100" />
                             </node>
                           </node>
                           <node role="operation" roleId="tpee.1197027833540" type="tp25.SPropertyAccess" typeId="tp25.1138056022639" id="8389495848826580122" nodeInfo="nn">

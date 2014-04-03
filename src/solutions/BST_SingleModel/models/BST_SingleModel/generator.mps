@@ -17,6 +17,7 @@
   <language namespace="96ee7a94-411d-4cf8-9b94-96cad7e52411(jetbrains.mps.baseLanguage.jdk7)" />
   <language namespace="92d2ea16-5a42-4fdf-a676-c7604efe3504(de.slisson.mps.richtext)" />
   <language namespace="91226321-4f88-4441-9d12-6ac6527c0722(ql)" />
+  <language namespace="fb8e06d6-41a1-4d57-a2cd-8c87f5d521ae(ql.simple)" />
   <import index="q3i4" modelUID="r:db49606d-91ef-488e-ab05-ec0c916f7ed3(ql.structure)" version="7" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" />
   <import index="e2lb" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" version="-1" />
@@ -29,6 +30,7 @@
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="16" implicit="yes" />
   <import index="tp2q" modelUID="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" version="7" implicit="yes" />
   <import index="tp3r" modelUID="r:00000000-0000-4000-0000-011c8959034b(jetbrains.mps.lang.quotation.structure)" version="0" implicit="yes" />
+  <import index="g3ym" modelUID="r:cda83059-9814-4415-8ddc-8424866df366(ql.simple.structure)" version="-1" implicit="yes" />
   <root type="tpee.ClassConcept" typeId="tpee.1068390468198" id="107969795526916729" nodeInfo="ig">
     <property name="name" nameId="tpck.1169194664001" value="Generator1024x1" />
     <node role="member" roleId="tpee.5375687026011219971" type="tpee.StaticMethodDeclaration" typeId="tpee.1081236700938" id="107969795526916805" nodeInfo="igu">
@@ -888,7 +890,7 @@
                 </node>
                 <node role="operation" roleId="tpee.1197027833540" type="tp2q.AddElementOperation" typeId="tp2q.1160612413312" id="8389495848824608645" nodeInfo="nn">
                   <node role="argument" roleId="tp2q.1160612519549" type="tp3r.Quotation" typeId="tp3r.1196350785113" id="8389495848824609054" nodeInfo="nn">
-                    <node role="quotedNode" roleId="tp3r.1196350785114" type="q3i4.FormInline" typeId="q3i4.8389495848824162390" id="8389495848824609478" nodeInfo="ng">
+                    <node role="quotedNode" roleId="tp3r.1196350785114" type="g3ym.FormInline" typeId="g3ym.8389495848826783099" id="8389495848824609478" nodeInfo="ng">
                       <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tp3r.ReferenceAntiquotation" typeId="tp3r.1196350785117" id="8389495848824610101" nodeInfo="ng">
                         <property name="linkRole" nameId="tpck.1757699476691236116" value="form" />
                         <node role="expression" roleId="tp3r.1196350785111" type="tpee.DotExpression" typeId="tpee.1197027756228" id="8389495848824641626" nodeInfo="nn">
