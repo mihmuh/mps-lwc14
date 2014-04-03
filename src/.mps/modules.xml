@@ -22,6 +22,7 @@
       <modulePath path="$PROJECT_DIR$/solutions/QlRuntime/QlRuntime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/QuestionnaireOfLife/QuestionnaireOfLife.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/QuestionnaireOfLifeWithStyle/QuestionnaireOfLifeWithStyle.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/ql.simple.runtime/ql.simple.runtime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/zandbak/zandbak.msd" folder="" />
     </projectModules>
   </component>
