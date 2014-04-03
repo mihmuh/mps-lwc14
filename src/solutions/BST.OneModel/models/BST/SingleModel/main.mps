@@ -13747,7 +13747,7 @@
       <node role="body" roleId="tpee.1068580123135" type="tpee.StatementList" typeId="tpee.1068580123136" id="8389495848826762198" nodeInfo="sn">
         <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="8389495848826762199" nodeInfo="nn">
           <node role="expression" roleId="tpee.1068580123156" type="tp68.InternalStaticMethodCall" typeId="tp68.1173990517731" id="8389495848826762200" nodeInfo="nn">
-            <property name="fqClassName" nameId="tp68.1173992483054" value="BST.SingleModel.main.Main32x1" />
+            <property name="fqClassName" nameId="tp68.1173992483054" value="BST.SingleModel.main.Main1024x1" />
             <property name="methodName" nameId="tp68.1173992444083" value="work" />
             <node role="returnType" roleId="tp68.1175794062018" type="tpee.Type" typeId="tpee.1068431790189" id="8389495848826762201" nodeInfo="in" />
           </node>
