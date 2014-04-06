@@ -33,6 +33,7 @@
           </node>
           <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.CalculatedValue" typeId="q3i4.1582178472725744109" id="489184706024168306" nodeInfo="ng">
             <property name="name" nameId="tpck.1169194664001" value="answer1" />
+            <property name="label" nameId="q3i4.1582178472725744113" value="test1" />
             <node role="expression" roleId="q3i4.1582178472725744110" type="q3i4.QuestionReference" typeId="q3i4.1785499535625990009" id="489184706024168856" nodeInfo="ng">
               <link role="question" roleId="q3i4.1785499535625990011" targetNodeId="489184706024167562" resolveInfo="IsIt1" />
             </node>
@@ -54,6 +55,7 @@
           </node>
           <node role="formElements" roleId="q3i4.8643211149799186886" type="q3i4.CalculatedValue" typeId="q3i4.1582178472725744109" id="489184706024144094" nodeInfo="ng">
             <property name="name" nameId="tpck.1169194664001" value="answer3" />
+            <property name="label" nameId="q3i4.1582178472725744113" value="test2" />
             <node role="type" roleId="q3i4.1582178472725744121" type="q3i4.Boolean" typeId="q3i4.113961188538979205" id="489184706024144194" nodeInfo="ng" />
             <node role="expression" roleId="q3i4.1582178472725744110" type="q3i4.QuestionReference" typeId="q3i4.1785499535625990009" id="489184706024149828" nodeInfo="ng">
               <link role="question" roleId="q3i4.1785499535625990011" targetNodeId="489184706024143672" resolveInfo="IsIt3" />
