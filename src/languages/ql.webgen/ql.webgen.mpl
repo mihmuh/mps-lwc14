@@ -3,11 +3,12 @@
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="languageModels" />
+      <sourceRoot location="languageAccessories" />
     </modelRoot>
   </models>
   <accessoryModels />
   <generators>
-    <generator generatorUID="ql.webgen#7489482489163221761" uuid="c4ebd170-64da-418f-a54b-ea3b94a01aab">
+    <generator name="" generatorUID="ql.webgen#7489482489163221761" uuid="c4ebd170-64da-418f-a54b-ea3b94a01aab">
       <models>
         <modelRoot contentPath="${module}" type="default">
           <sourceRoot location="generator/template" />
@@ -34,7 +35,12 @@
     </generator>
   </generators>
   <sourcePath />
+  <dependencies>
+    <dependency reexport="false">23f8f5c8-c424-4585-9e67-e43ec0c23c7d(JavaScript)</dependency>
+    <dependency reexport="false">91226321-4f88-4441-9d12-6ac6527c0722(ql)</dependency>
+  </dependencies>
   <usedDevKits>
+    <usedDevKit>fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)</usedDevKit>
     <usedDevKit>2677cb18-f558-4e33-bc38-a5139cee06dc(jetbrains.mps.devkit.language-design)</usedDevKit>
   </usedDevKits>
   <extendedLanguages>
