@@ -12,6 +12,7 @@
   <usedLanguages>
     <usedLanguage>f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)</usedLanguage>
     <usedLanguage>91226321-4f88-4441-9d12-6ac6527c0722(ql)</usedLanguage>
+    <usedLanguage>dcfacd16-b0ae-4426-be49-ebf3d72fbf41(ql.webgen)</usedLanguage>
   </usedLanguages>
 </solution>
 
