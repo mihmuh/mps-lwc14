@@ -3,8 +3,6 @@
   <persistence version="8" />
   <language namespace="f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)" />
   <language namespace="df345b11-b8c7-4213-ac66-48d2a9b75d88(jetbrains.mps.baseLanguageInternal)" />
-  <language namespace="91226321-4f88-4441-9d12-6ac6527c0722(ql)" />
-  <language namespace="fb8e06d6-41a1-4d57-a2cd-8c87f5d521ae(ql.simple)" />
   <language-engaged-on-generation namespace="fb8e06d6-41a1-4d57-a2cd-8c87f5d521ae(ql.simple)" />
   <import index="d92r" modelUID="r:0bf8614d-0c11-4d3c-a9a9-c5c9440f1f8b(BST.MultiModel.main.x0)" version="-1" />
   <import index="58po" modelUID="r:827e67c2-6507-47b0-bca9-f4d0576a4efe(BST.MultiModel.main.x1)" version="-1" />

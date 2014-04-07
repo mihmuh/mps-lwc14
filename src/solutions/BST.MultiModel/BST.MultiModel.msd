@@ -9,7 +9,6 @@
   <usedLanguages>
     <usedLanguage>df345b11-b8c7-4213-ac66-48d2a9b75d88(jetbrains.mps.baseLanguageInternal)</usedLanguage>
     <usedLanguage>67303928-c2ec-4bc0-86b8-7940507faa0f(jetbrains.mps.baselanguage.placeholder)</usedLanguage>
-    <usedLanguage>91226321-4f88-4441-9d12-6ac6527c0722(ql)</usedLanguage>
     <usedLanguage>fb8e06d6-41a1-4d57-a2cd-8c87f5d521ae(ql.simple)</usedLanguage>
   </usedLanguages>
 </solution>
